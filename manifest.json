@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "CP Websites",
+    "description": "Collection of popular programming websites!",
+    "version": "1.0.0",
+    "icons": {
+        "128": "icon_128.png"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [ "activeTab"]
+}
