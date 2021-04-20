@@ -6,72 +6,59 @@ html, body {
   width: 384;
 }
 
-h1 {
-  font-family: 'Righteous', cursive;
-  font-size: 22px;
-  font-weight: 400;
-  margin: 0;
-  color: #1d3557;
-}
-
-img {
-  width: 30px;
-}
-
 .modal-header {
   align-items: center;
-  border: 2px solid #dad;
+  background-color: #1a0000;
 }
 
-.modal-content {
-  font-family: 'Sanchez', serif;
-  color: #e63946;
-  padding: 0px 22px;
+.modal-header h1 {
+  font-family: 'Righteous', cursive;
+  font-size: 1.6rem;
+  font-weight: 400;
+  margin: 0;
+  color: #fffafa;
 }
 
-.modal-icons {
-  border-top: 2px solid #000;
-  height: 50px;
-  width: 100%;
+.version {
+  color: #8c8c8c;
+  font-size: 1.2rem;
+}
+
+.modal-header img {
+  width: 2.5rem;
 }
 
 .logo {
   padding: 16px;
 }
 
-.logo-icon {
-  vertical-align: text-bottom;
-  margin-right: 12px;
+.modal-content {
+  font-family: 'Sanchez', serif;
+  color: #1a0000;
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 0rem 1rem;
+  text-align: center;
 }
 
-.version {
-  color: #444;
-  font-size: 18px;
+.logo-icon {
+  vertical-align: text-bottom;
+  width: 3.5rem;
 }
 
 .flex-container {
   display: flex;
-  justify-content:left;
-  padding: 10px 22px;
+  justify-content: left;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .flex {
   opacity: 1;
   transition: opacity 0.2s ease-in-out;
-  margin: 0px 10px;
-  width: 30px;
-  font-size: 30px;
-  
+  margin: 1rem;
 }
 
 .flex:hover {
   opacity: 0.4;
 }
-
-.iconify {
-  color: #123;
-}
-
-
-
-
