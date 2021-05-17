@@ -2,6 +2,8 @@
 
 Avoid saving multiple bookmarks and get all your programming websites in one page! 
 
+To know more, watch the [project video](https://www.youtube.com/watch?v=SFaLPBBOYQ4)
+
 ![CodeBox](https://user-images.githubusercontent.com/51206050/115509202-c8f40d00-a29b-11eb-9ecd-5a754aa58da7.png)
 
 # Set Up
